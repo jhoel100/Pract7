@@ -51,7 +51,6 @@ int main(){
 					previo=medio;
 					medio=valores[j];
 				}
-				j++;
 			}
 
 			if(n%2==0){
